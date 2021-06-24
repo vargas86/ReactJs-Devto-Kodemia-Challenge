@@ -1,0 +1,18 @@
+
+@import './css/interior.scss';
+@import './css/newpost.scss';
+@import './css/style.scss';
+@import './css/viewpost.scss';
+@import './css/general.scss';
+
+
+body {
+    background-color: $color-fondo;
+}
+
+.general-btn{
+    background: none;
+    outline: none;
+    border: none;
+}
+
